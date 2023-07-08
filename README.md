@@ -1,4 +1,4 @@
-# MusicalBox
+# Musical Box
 
 This repository contains the Musical Box project written in 2 programming languages. One is written in Assembly and the other one is written in C (written at register level).
 
@@ -6,8 +6,8 @@ Musical Box is an embedded project made by me on the 3rd year in the University.
 Below are the requirements for the project:
 - system should be able to sing a song with at least 5 musical notes
 - system should be able to detect the distance to an object
-- system should start the song when the it detetcts an object very close to him
-- system should be able to indicate in which is state it is(object detected & song is started / no object detected)
+- system should start the song when it detects an object very close to it
+- system should be able to indicate the current state (object detected & song is started / no object detected)
 
 
 Hardware components
